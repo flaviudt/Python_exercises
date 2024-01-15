@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "fname": "Maria",
+    "lname": "Popescu",
+    "age": "31",
+    "grade": "7.5"
+  },
+  {
+    "id": "2",
+    "fname": "Andrei",
+    "lname": "Ionescu",
+    "age": "26",
+    "grade": "8.0"
+  },
+  {
+    "id": "3",
+    "fname": "Adriana",
+    "lname": "Marinescu",
+    "age": "21",
+    "grade": "7.5"
+  },
+  {
+    "id": "4",
+    "fname": "Matei",
+    "lname": "Gheorghescu",
+    "age": "44",
+    "grade": "8.5"
+  },
+  {
+    "id": "5",
+    "fname": "Eusebiu",
+    "lname": "Pop",
+    "age": "33",
+    "grade": "9.5"
+  },
+  {
+    "id": "6",
+    "fname": "Ioana",
+    "lname": "Popa",
+    "age": "29",
+    "grade": "9.0"
+  }
+]
